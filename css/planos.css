@@ -63,7 +63,7 @@
 }
 
 .cartao__texto {
-    color: var(--fonte-cinza);
+    color: #666666;
     line-height: 28px;
 }
 
@@ -82,25 +82,25 @@
 }
 
 .cartao--start {
-    color: var(--planos-cartao-start);
+    color: #56CCF2;
 }
 
 .cartao--ultra {
-    color: var(--planos-cartao-ultra);
+    color: #B04CD9;
 }
 
 .cartao--mega {
-    color: var(--planos-cartao-mega);
+    color: #E33B3B;
 }
 
 .cartao__botao--start {
-    border-color: var(--planos-cartao-start);
+    border-color: #56CCF2;
 }
 
 .cartao__botao--ultra {
-    border-color: var(--planos-cartao-ultra);
+    border-color: #B04CD9;
 }
 
 .cartao__botao--mega {
-    border-color: var(--planos-cartao-mega);
+    border-color: #E33B3B;
 }
